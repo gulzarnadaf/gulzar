@@ -1,0 +1,50 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+header{
+    background-color:blue;
+    height: 50px;
+    width:auto;
+    padding: 10px;
+    word-spacing: 15px;
+    text-align: center;
+    align-items: center;
+}
+
+.navigation{
+    background-color:rgb(237, 217, 6);
+    color: black;
+    height: 50px;
+    width: 400px;
+    word-spacing:10px;
+    border-radius: 10px;
+   
+}
+
+img{
+    height: 100px;
+    width: 150px;
+}
+
+.images-container{
+    display:flex;
+    flex-direction:row;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+.card-container{
+    text-align: center;
+    padding:20px;
+    border: 1px solid black;
+    margin:10px;
+    border-radius: 10px;
+  
+}
+a{
+    padding: 10px;
+    font-size:20px;
+    text-decoration: none;
+}
